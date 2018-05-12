@@ -18,6 +18,8 @@ creator:
     - http://www.museum.ru/Pushkin/
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13798#La-fille-du-capitaine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-10-19'
 gutenberg_type: Text
